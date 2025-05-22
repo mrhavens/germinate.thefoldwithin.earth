@@ -1,4 +1,8 @@
 {
+  "explorer": {
+    "defaultNode": "z4V1sjrXqjvFdnCUbXPFqd5p4DtH5",
+    "api": null
+  },
   "nodes": {
     "fallbackPublicExplorer": "https://app.radicle.xyz/nodes/$host/$rid$path",
     "requiredApiVersion": "~0.18.0",
